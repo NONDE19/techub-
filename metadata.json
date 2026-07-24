@@ -1,0 +1,6 @@
+{
+  "name": "TechHub - Professional Tech Community",
+  "description": "A comprehensive professional networking platform for developers, designers, startups, and IT professionals featuring networking, jobs, freelance marketplace, communities, courses, events, direct messaging, and admin tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
